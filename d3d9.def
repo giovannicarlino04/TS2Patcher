@@ -1,0 +1,16 @@
+EXPORTS
+    DllMain @1
+    Direct3DCreate9 @16
+    Direct3DShaderValidatorCreate9 @17
+    PSGPError @18
+    PSGPSampleTexture @19
+    D3DPERF_BeginEvent @20
+    D3DPERF_EndEvent @21
+    D3DPERF_GetStatus @22
+    D3DPERF_QueryRepeatFrame @23
+    D3DPERF_SetMarker @24
+    D3DPERF_SetRegion @25
+    D3DPERF_GetOptions @27
+    D3D9GetSWInfo @28
+    D3DPERF_SetOptions @29
+    D3D9GetDriverState @30
