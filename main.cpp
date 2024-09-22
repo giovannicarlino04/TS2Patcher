@@ -98,7 +98,8 @@ static bool load_dll(bool critical)
             "D3DPERF_GetOptions",
             "D3D9GetSWInfo",
             "D3DPERF_SetOptions",
-            "D3D9GetDriverState"};
+            "D3D9GetDriverState"
+        };
 
     static char mod_path[2048];
     static char original_path[256];
